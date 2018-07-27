@@ -1,0 +1,9 @@
+127.0.0.1 - - [31/Jan/2017:07:45:47 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:45:49 +0530] "GET /JSPProject/login.jsp HTTP/1.1" 200 738
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:46:38 +0530] "POST /JSPProject/login HTTP/1.1" 404 983
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:47:33 +0530] "GET /JSPProject/login.jsp HTTP/1.1" 200 744
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:48:36 +0530] "POST /JSPProject/Process.jsp HTTP/1.1" 500 2688
+127.0.0.1 - - [31/Jan/2017:07:49:57 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:49:58 +0530] "GET /JSPProject/login.jsp HTTP/1.1" 200 744
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:50:39 +0530] "POST /JSPProject/Process.jsp HTTP/1.1" 200 407
+0:0:0:0:0:0:0:1 - - [31/Jan/2017:07:51:07 +0530] "POST /JSPProject/Process.jsp HTTP/1.1" 200 419

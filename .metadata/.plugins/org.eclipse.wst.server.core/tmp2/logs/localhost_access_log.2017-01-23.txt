@@ -1,0 +1,5 @@
+127.0.0.1 - - [23/Jan/2017:13:38:01 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [23/Jan/2017:13:38:03 +0530] "GET /SimpleServletProject12/Clock.jsp HTTP/1.1" 200 310
+127.0.0.1 - - [23/Jan/2017:21:11:28 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [23/Jan/2017:21:11:29 +0530] "GET /SimpleServletProject13/objects.jsp HTTP/1.1" 200 325
+0:0:0:0:0:0:0:1 - - [23/Jan/2017:21:11:49 +0530] "GET /SimpleServletProject13/objects.jsp?name=TestUser HTTP/1.1" 200 329

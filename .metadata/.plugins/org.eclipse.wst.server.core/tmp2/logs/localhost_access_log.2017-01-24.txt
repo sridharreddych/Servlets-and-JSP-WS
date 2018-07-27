@@ -1,0 +1,6 @@
+127.0.0.1 - - [24/Jan/2017:07:07:12 +0530] "GET / HTTP/1.1" 200 1130
+0:0:0:0:0:0:0:1 - - [24/Jan/2017:07:07:16 +0530] "GET /SimpleServletProject13/objects.jsp HTTP/1.1" 200 430
+0:0:0:0:0:0:0:1 - - [24/Jan/2017:07:08:12 +0530] "GET /SimpleServletProject13/objects.jsp?name=TestUser HTTP/1.1" 200 442
+0:0:0:0:0:0:0:1 - - [24/Jan/2017:07:10:19 +0530] "GET /SimpleServletProject13/objects.jsp HTTP/1.1" 200 438
+0:0:0:0:0:0:0:1 - - [24/Jan/2017:07:11:47 +0530] "GET /SimpleServletProject13/objects.jsp HTTP/1.1" 200 434
+0:0:0:0:0:0:0:1 - - [24/Jan/2017:07:11:47 +0530] "GET /favicon.ico HTTP/1.1" 404 973
